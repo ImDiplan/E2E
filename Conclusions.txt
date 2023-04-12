@@ -1,0 +1,8 @@
+Conclusiones después de probar la página Demo Blaze
+Después de realizar las pruebas automatizadas del flujo de compra en la página https://www.demoblaze.com/ utilizando Cypress, se pueden obtener las siguientes conclusiones:
+
+La página es fácil de navegar y los elementos están correctamente etiquetados.
+La funcionalidad para agregar productos al carrito y visualizar el contenido del carrito funciona correctamente.
+El formulario de compra funciona correctamente y los campos de entrada tienen la validación correcta.
+La funcionalidad de finalización de la compra también funciona correctamente.
+En general, la página Demo Blaze es fácil de usar y cumple con las expectativas de un sitio de comercio electrónico. Se encontraron algunos problemas menores durante la ejecución de las pruebas, pero en general, la página funcionó sin problemas. Los problemas encontrados podrían corregirse fácilmente mediante mejoras en la funcionalidad o en la usabilidad de la página.
